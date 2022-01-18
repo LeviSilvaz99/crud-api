@@ -14,7 +14,7 @@ Teste de crud para listar filmes usando -> SPRING BOOT - JAVA 8 - POSTGRESQL -DO
 ### Executing program -> OPTION 1 -  WITH DOCKER
 
 * Entre no diretorio da pasta pelo seu terminal de preferencia
-* Lembrando que o arquivo já utiliza uma imagem do postgres como banco de dados e a conexacçao está no arquivo: application prorpeties 
+* Lembrando que o arquivo já utiliza uma imagem do postgres como banco de dados e a conexao está no arquivo: application prorpeties 
 * E no docker-compose
 * E digite os seguintes comandos em sequencia
 ```
