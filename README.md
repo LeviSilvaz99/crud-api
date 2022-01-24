@@ -1,4 +1,4 @@
-# TEST CRUD UBOTS
+# CRUD API WITH DOCKER
 
 ## Description
 
@@ -9,7 +9,7 @@ Teste de crud para listar filmes usando -> SPRING BOOT - JAVA 8 - POSTGRESQL -DO
 ### Installing 
 
 * clone este repositorio em sua maquina local
-* para facilitar a vida do recrutador eu criei dois arquivos docker(docker-compose e dockerfile) para facilitar a hora de testar a api
+* para facilitar eu criei dois arquivos docker(docker-compose e dockerfile) para facilitar a hora de testar a api
 
 ### Executing program -> OPTION 1 -  WITH DOCKER
 
